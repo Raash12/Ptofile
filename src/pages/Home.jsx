@@ -15,7 +15,7 @@ const Home = () => {
           />
           <h1 className="hero-title">Hello, I'm Raash</h1>
           <p className="hero-subtitle">Full Stack Developer</p>
-          <a href="/contact" className="button">Get in Touch</a>
+          <a href="contact" className="button">Get in Touch</a>
         </div>
       </div>
 
