@@ -10,7 +10,7 @@ const About = () => {
             🌍 I am currently based in Mogadishu, Somalia.
           </p>
           <img 
-            src="/public/profile.jpeg" 
+            src="/profile.jpeg" 
             alt="Abdirashiid Bile Mohamed"
             className="profile-image" 
           />
