@@ -10,7 +10,7 @@ const Projects = () => {
       title: 'Task Manager',
       description: 'A productivity app for managing daily tasks and projects.',
       image: 'https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7',
-      tags: ['React', 'Redux', 'Firebase']
+      tags: ['React', 'node js ', 'Mongodb']
     },
     {
       title: 'Portfolio Website',
