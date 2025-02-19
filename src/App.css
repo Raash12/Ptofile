@@ -250,3 +250,7 @@ body {
   border-radius: 10px;           /* Optional: rounded corners */
   margin-left: 20px;             /* Space between text and image */
 }
+.nav-link {
+  display: flex;               /* Allows icon and text to align properly */
+  align-items: center;        /* Vertically center the icon with the text */
+}
