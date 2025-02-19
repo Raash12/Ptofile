@@ -1,9 +1,9 @@
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Navigation from './components/Navigation';
-import Home from './pages/Home';
-import About from './pages/About';
-import Projects from './pages/Projects';
-import Contact from './pages/Contact';
+import Navigation from './components/Navigation'; // Ensure the path is correct
+import Home from './pages/Home'; // Ensure the path is correct
+import About from './pages/About'; // Ensure the path is correct
+import Projects from './pages/Projects'; // Ensure the path is correct
+import Contact from './pages/Contact'; // Ensure the path is correct
 import './App.css';
 
 const App = () => {
